@@ -1,0 +1,1 @@
+This repository is going to be used for all of my Tech Academy HTML and CSS course assignments.
